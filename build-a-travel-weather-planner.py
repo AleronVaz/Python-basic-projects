@@ -1,3 +1,4 @@
+#Weather plannner application for travelling
 distance_mi = 20
 is_raining = True
 has_bike = True
