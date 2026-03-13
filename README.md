@@ -9,6 +9,12 @@ A logic-based script that evaluates travel feasibility by checking variables lik
 
 ---
 
+### Discount Calculator application
+A python function that evaluates the price and discount to be applied to the order and returns the final price of the bill.
+
+---
+
+
 ## How to use
 
 1. **Clone the repository:**
