@@ -9,11 +9,13 @@ A logic-based script that evaluates travel feasibility by checking variables lik
 
 ---
 
-### Discount Calculator application
+### Discount Calculator Application
 A python function that evaluates the price and discount to be applied to the order and returns the final price of the bill.
 
 ---
 
+### Number Pattern Generator
+A Program which takes a number n and prints a sequence from 1 to n.
 
 ## How to use
 
