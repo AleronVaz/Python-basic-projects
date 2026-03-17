@@ -17,6 +17,11 @@ A python function that evaluates the price and discount to be applied to the ord
 ### Number Pattern Generator
 A Program which takes a number n and prints a sequence from 1 to n.
 
+---
+
+### RPG character stats bar generator
+A Program which displays a characters name along with their stats and its values.
+
 ## How to use
 
 1. **Clone the repository:**
