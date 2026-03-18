@@ -22,6 +22,11 @@ A Program which takes a number n and prints a sequence from 1 to n.
 ### RPG character stats bar generator
 A Program which displays a characters name along with their stats and its values.
 
+---
+
+### Caesar Cipher program (Encryption & Decryption)
+A Program which encrypts and decrypts messages using string mapping.
+
 ## How to use
 
 1. **Clone the repository:**
