@@ -4,28 +4,33 @@ Welcome to my repository of Python projects. This repository is a collection of 
 
 ## Programs:
 
-### Travel Weather Planner
+### 1) Travel Weather Planner
 A logic-based script that evaluates travel feasibility by checking variables like distance, rain, and available transport (car, bike, or ride-share). It uses the concept of if else statements.
 
 ---
 
-### Discount Calculator Application
+### 2) Discount Calculator Application
 A python function that evaluates the price and discount to be applied to the order and returns the final price of the bill.
 
 ---
 
-### Number Pattern Generator
+### 3) Number Pattern Generator
 A Program which takes a number n and prints a sequence from 1 to n.
 
 ---
 
-### RPG character stats bar generator
+### 4) RPG character stats bar generator
 A Program which displays a characters name along with their stats and its values.
 
 ---
 
-### Caesar Cipher program (Encryption & Decryption)
+### 5) Caesar Cipher program (Encryption & Decryption)
 A Program which encrypts and decrypts messages using string mapping.
+
+---
+
+### 6) Email Application
+A Python-based simulation of an email communication platform built to demonstrate core Object-Oriented Programming (OOP) principles by using a modular architecture where User, Inbox, and Email classes interact seamlessly.
 
 ## How to use
 
