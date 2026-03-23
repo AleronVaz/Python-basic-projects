@@ -32,6 +32,12 @@ A Program which encrypts and decrypts messages using string mapping.
 ### 6) Email Application
 A Python-based simulation of an email communication platform built to demonstrate core Object-Oriented Programming (OOP) principles by using a modular architecture where User, Inbox, and Email classes interact seamlessly.
 
+---
+
+### 5) Salary Tracker Application
+Implemeted a Salary tracking system which keeps track of employees and changes using concepts of OOP's encapsulation.
+
+
 ## How to use
 
 1. **Clone the repository:**
