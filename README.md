@@ -37,6 +37,11 @@ A Python-based simulation of an email communication platform built to demonstrat
 ### 5) Salary Tracker Application
 Implemeted a Salary tracking system which keeps track of employees and changes using concepts of OOP's encapsulation.
 
+---
+
+### 5) Media Catalogue
+Implemeted a Media catalogue system, keeping track of movies and series with this meta data.
+
 
 ## How to use
 
