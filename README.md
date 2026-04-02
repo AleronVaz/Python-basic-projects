@@ -42,6 +42,11 @@ Implemeted a Salary tracking system which keeps track of employees and changes u
 ### 5) Media Catalogue
 Implemeted a Media catalogue system, keeping track of movies and series with this meta data.
 
+---
+
+### 5) polygon Area Calculator
+Implemeted Polygon area calulcator program using classes and OOP.
+
 
 ## How to use
 
