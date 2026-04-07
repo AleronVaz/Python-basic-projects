@@ -47,6 +47,11 @@ Implemeted a Media catalogue system, keeping track of movies and series with thi
 ### 5) polygon Area Calculator
 Implemeted Polygon area calulcator program using classes and OOP.
 
+---
+
+### 5) Hash Table
+A from-scratch implementation of a Hash Table data structure in Python.
+
 
 ## How to use
 
